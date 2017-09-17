@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SmashMentionsTableViewController.setMentions(with : Tweet) -&gt; ():SmashMentionsTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SmashMentionsTableViewController.tableView(UITableView, titleForHeaderInSection : Int) -&gt; String?:SmashMentionsTableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "headers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TweetTableViewController.init(coder : NSCoder) -&gt; TweetTableViewController?:TweetTableViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "static TwitterUser.findOrCreateTwitterUser(matching : User, in : NSManagedObjectContext) throws -&gt; TwitterUser:TwitterUser.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
